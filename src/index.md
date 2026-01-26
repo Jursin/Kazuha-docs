@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Kazuha
   text: 适用于幻灯片放映下的演示助手工具。
-  tagline: 简单、高效、贴心
+  tagline: 这里我还不知道怎么写。
   image:
     src: /logo.svg
     alt: Kazuha Logo
