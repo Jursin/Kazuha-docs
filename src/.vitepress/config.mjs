@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Kazuha',
   description: '适用于幻灯片放映下的演示助手工具。',
+  outDir: '../dist', // 输出目录设置到项目根目录下的 dist
   themeConfig: {
     logo: '/logo.svg',
     
