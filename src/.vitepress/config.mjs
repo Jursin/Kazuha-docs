@@ -55,7 +55,7 @@ export default defineConfig({
     
     footer: {
       message: 'Made with ❤️',
-      copyright: 'Copyright © 2024-present Haraguse'
+      copyright: 'Copyright © 2025-2026 Seirai Haraguchi'
     }
   }
 })
