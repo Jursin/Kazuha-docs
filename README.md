@@ -1,41 +1,37 @@
-# VuePress
+# Kazuha-documents
 
-This directory is a brief example of a [VuePress](https://vuepress.vuejs.org/) site that can be deployed to Vercel with zero-configuration.
+这是 [Kazuha](https://github.com/Haraguse/kazuha) 文档仓库，使用 VitePress 框架
 
-## Deploy Your Own
+## 安装
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vuepress&template=vuepress)
-
-_Live Example: https://vuepress-starter-template.vercel.app_
-
-## Setup
-
-Install the dependencies:
+安装依赖：
 
 ```bash
-$ pnpm install
+npm install
 ```
 
-### Development
+### 开发
 
-Start the development server
+启动开发服务器：
 
 ```bash
-$ pnpm dev
+npm run dev
 ```
 
-### Build the project
+### 构建项目
 
-Build for production
+构建生产版本：
 
 ```bash
-$ pnpm build
+npm run build
 ```
 
-### Deploy
-
-Deploy your VuePress application to Vercel
+预览生产产物：
 
 ```bash
-$ vercel
+npm run preview
 ```
+## 贡献者
+<a href="https://github.com/Haraguse/kazuha-documents/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Haraguse/kazuha-documents" />
+</a>
